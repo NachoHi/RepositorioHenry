@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: cyan;
+    color: #333;
+    margin: 20px;
+}
+
+header{
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+#imagen{
+    border-radius: 50px;
+}
+
+h2{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Contenido{
+    margin: 15px;
+    color: crimson;
+    font-size: larger;
+    font-weight: bold;
+    text-align: justify;
+}
+
+hr{
+    width: 50%;
+    background-color: coral;
+    height: 5px;
+    border-radius: 50px;
+}
